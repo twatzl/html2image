@@ -1,5 +1,5 @@
-// Package wkhtmltoimage provides a simple wrapper around wkhtmltoimage (http://wkhtmltopdf.org/) binary.
-package main
+// Package html2image provides a simple wrapper around wkhtmltoimage (http://wkhtmltopdf.org/) binary.
+package html2image
 
 import (
 	"bytes"
